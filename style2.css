@@ -1,0 +1,126 @@
+.about-page,
+.about-page * {
+  box-sizing: border-box;
+}
+.about-page {
+  height: 1024px;
+  position: relative;
+}
+.landing-page {
+  background: #cdd1ff;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 43px;
+  width: 173px;
+  height: 44px;
+}
+.homepage {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1002px;
+  top: 55px;
+}
+.about {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1163px;
+  top: 55px;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1269px;
+  top: 55px;
+}
+.bmgt-407-information-systems-projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  position: absolute;
+  left: 28px;
+  top: 155px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.bmgt-407-is-the-capstone-course-for-information-systems-is-majors-students-can-apply-their-knowledge-to-develop-real-is-solutions-for-business-clients-this-course-takes-students-through-the-development-process-and-allows-them-to-solve-complex-business-problems-useful-for-fields-like-consulting {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 27px;
+  top: 288px;
+  width: 1287px;
+  height: 111px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.semester-details-spring-2025 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 27px;
+  top: 432px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.professor-paul-t-shapiro {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 27px;
+  top: 494px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 28px;
+  top: 556px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
